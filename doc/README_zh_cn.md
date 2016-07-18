@@ -6,7 +6,7 @@
 ## OpenToonz 是什么？
 
 OpenToonz 是由 [DWANGO](http://dwango.co.jp/english/) 发行的 2D 动画制作软件。
-它基于 **Toonz Studio Ghibli Version** 这一款由意大利的 [Digital Video 公司](http://www.toonz.com/)开发，
+它的前身是 **Toonz Studio Ghibli Version**，这是一款由意大利的 [Digital Video 公司](http://www.toonz.com/)开发，
 并经过[吉卜力工作室](http://www.ghibli.jp/)定制的软件，多年来吉卜力的作品一直用它来制作。
 
 ## 系统要求
