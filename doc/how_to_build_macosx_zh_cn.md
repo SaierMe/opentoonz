@@ -13,7 +13,7 @@
 - boost
   - http://www.boost.org/users/history/version_1_55_0.html
 
-## 生成于 MacOSX
+## 在 MacOSX 中生成
 
 ### 0. 安装 Qt
 
@@ -58,7 +58,7 @@ $ mv ~/Downloads/boost_1_55_0.tar.bz2 .
 $ tar xjvf boost_1_55_0.tar.bz2
 ```
 
-### 5. 生成本体
+### 5. 生成主程序
 
 ```
 $ cd ../../toonz
